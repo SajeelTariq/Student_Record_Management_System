@@ -1,0 +1,24 @@
+	Roll Number: 29
+	Student Name: Sajeel Tariq
+	Father's Name: Tariq Mehmood
+	Class: X
+	Section: A
+	Gender: M
+	Student's Addrress: abc
+	Enter Student's Contact Number: 123
+	Enter Student's Email Address: abc@gmail.com
+
+	______________________________________________________________
+
+	Roll Number: 28
+	Student Name: Faraz Ahmed
+	Father's Name: Ahmed
+	Class: X
+	Section: B
+	Gender: M
+	Student's Addrress: xyz
+	Enter Student's Contact Number: 321
+	Enter Student's Email Address: xyz@gmail.com
+
+	______________________________________________________________
+
